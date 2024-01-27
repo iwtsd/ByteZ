@@ -66,7 +66,7 @@ int main(const int argc, char* argv[])
     }
     else
     {
-        printf("[HELP] inject.exe <dll> <process>\n");
+        printf("[HELP] ByteZ.exe <dll> <process>\n");
         return -1;
     }
 
