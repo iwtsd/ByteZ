@@ -17,7 +17,7 @@ g++ -o ByteZ.exe ByteZ.cpp
 
 2. Launch the target process into which you want to inject the DLL.
 
-3. Run the compiled ByteZ and follow the interface prompts to select the target process and DLL for injection.
+3. Run the compiled ByteZ and using ```ByteZ.exe <dll> <process>.```
 
 4. Enjoy enhanced functionality in your target process after a successful injection.
 
