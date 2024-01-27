@@ -2,7 +2,7 @@
 #include <TlHelp32.h>
 #include <iostream>
 #include <string>
-#include "../../../../../msys64/ucrt64/include/c++/13.2.0/bits/locale_conv.h"
+#include "../../../../../include/c++/13.2.0/bits/locale_conv.h"
 #include <codecvt>
 
 /*
